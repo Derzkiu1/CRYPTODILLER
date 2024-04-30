@@ -1,0 +1,22 @@
+{
+  "name": "CRYPTODILLER",
+  "version": "1.0.0",
+  "description": "CRYPTODILLER",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Derzkiu1/CRYPTODILLER.git"
+  },
+  "dependencies": {
+    "minti_fulkerson": "0.1.4"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Derzki1/CRYPTODILLER/issues"
+  },
+  "homepage": "https://github.com/Derzkiu1/CRYPTODILLER#readme"
+}
